@@ -12,7 +12,7 @@ buildNumber.properties
 .mvn/timing.properties
 !.mvn/wrapper/maven-wrapper.jar
 
-# Allow source test/build exceptions if needed
+# Allow source build exceptions
 !**/src/main/**/target/
 !**/src/test/**/target/
 !**/src/main/**/build/
@@ -28,11 +28,6 @@ buildNumber.properties
 out/
 logs/
 *.run.xml
-
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
 
 # =========================
 # Eclipse
@@ -67,7 +62,7 @@ build/
 *.log
 
 # =========================
-# Kotlin (if used)
+# Kotlin
 # =========================
 .kotlin/
 
@@ -87,13 +82,13 @@ application-local.properties
 application-dev.properties
 
 # =========================
-# Editor / temporary files
+# Editor / temp files
 # =========================
 *.swp
 *.swo
 
 # =========================
-# Coverage / test reports
+# Coverage
 # =========================
 coverage/
 *.exec
