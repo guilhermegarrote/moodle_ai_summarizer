@@ -1,0 +1,15 @@
+Reestruture esta unidade de estudo em formato didático, claro e resumido, mantendo apenas as informações essenciais para a compreensão dos temas.
+
+Reescreva o conteúdo quando necessário para melhorar clareza, fluidez e didática, sem alterar o significado original.
+
+Organize o conteúdo em Markdown padronizado, com hierarquia lógica de títulos e subtítulos.
+
+Elimine redundâncias, repetições e trechos desnecessários, mantendo o foco no aprendizado.
+
+Remova quebras artificiais como “Página” e integre os tópicos em uma sequência coerente dentro da unidade.
+
+O resultado deve ser uma unidade única, bem estruturada e pronta para estudo.
+
+Além do texto final, você pode incluir breves observações externas (fora do conteúdo em si) apenas quando forem realmente úteis para esclarecer estrutura, decisões de organização ou simplificações feitas. Essas observações devem ser curtas e objetivas, sem expandir o conteúdo nem virar explicação adicional do tema.
+
+Não inclua emojis nem comentários desnecessários.

@@ -1,0 +1,15 @@
+Revise todo o arquivo contendo múltiplas unidades de estudo, mantendo cada unidade separada, porém com padronização global.
+
+Garanta que todas as unidades sigam o mesmo padrão de Markdown, estrutura e nível de profundidade.
+
+Ajuste inconsistências de formatação, títulos, subtítulos e organização hierárquica entre as unidades.
+
+Verifique coesão e uniformidade do estilo de escrita em todo o material, garantindo que o conteúdo esteja consistente e didático.
+
+Se necessário, reescreva trechos para melhorar clareza e padronização, sem alterar o significado original.
+
+Não una as unidades — apenas mantenha a separação lógica entre elas, mas com estrutura homogênea.
+
+O resultado deve ser um documento organizado, consistente e pronto para estudo contínuo.
+
+Não inclua emojis, comentários, observações externas ou explicações fora do conteúdo.
